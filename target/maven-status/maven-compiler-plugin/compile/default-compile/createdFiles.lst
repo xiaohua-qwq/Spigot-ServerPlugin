@@ -1,0 +1,8 @@
+org\xiaohua\testplugin\Listeners\Listener.class
+org\xiaohua\testplugin\command\KffSendCommand.class
+org\xiaohua\testplugin\TestPlugin.class
+org\xiaohua\testplugin\command\KickAndBanCommand.class
+org\xiaohua\testplugin\enus\ServerEnum.class
+org\xiaohua\testplugin\utils\PlayerMessageSender.class
+org\xiaohua\testplugin\command\AddWhitelistCommand.class
+org\xiaohua\testplugin\io\IOController.class

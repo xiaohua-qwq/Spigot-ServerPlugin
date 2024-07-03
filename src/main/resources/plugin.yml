@@ -1,0 +1,18 @@
+name: TestPlugin
+version: '${project.version}'
+main: org.xiaohua.testplugin.TestPlugin
+api-version: '1.20'
+author: XiaoHua
+load: STARTUP
+prefix: server-frame
+
+commands:
+  kick:
+    usage: /<command>
+    permission: test.use
+  aw:
+    usage: /<command>
+    permission: test.use
+  kff:
+    usage: /<command>
+    permission: test.use
